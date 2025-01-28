@@ -81,12 +81,76 @@ module.exports = function () {
     ],
     'domainNames': [
       {
-        'site': 'tecff',
-        'name': 'Freifunk Altdorf'
+        'domain': 'tecff',
+        'name': 'Freifunk Altdorf (alt)'
       },
       {
-        'site': 'ffgri.init.tk',
-        'name': 'Freifunk Grießbach'
+        'domain': 'tecff_landshut_innenstadt',
+        'name': 'Freifunk Landshut (Innenstadt)'
+      },
+      {
+        'domain': 'tecff_event',
+        'name': 'Freifunk Event'
+      },
+      {
+        'domain': 'tecff_landshut_stadt',
+        'name': 'Freifunk Landshut (Stadt)'
+      },
+      {
+        'domain': 'tecff_muehldorf',
+        'name': 'Freifunk Mühldorf'
+      },
+      {
+        'domain': 'tecff_nsv',
+        'name': 'Freifunk Neumarkt-St.Veit'
+      },
+      {
+        'domain': 'tecff_altdorf_ndb',
+        'name': 'Freifunk Altdorf (Niederbayern)'
+      },
+      {
+        'domain': 'tecff_pfettrach_altdorf',
+        'name': 'Freifunk Pfettrach'
+      },
+      {
+        'domain': 'tecff_bruckberg',
+        'name': 'Freifunk Bruckberg'
+      },
+      {
+        'domain': 'tecff_ergolding',
+        'name': 'Freifunk Ergolding'
+      },
+      {
+        'domain': 'tecff_landshut_landkreis',
+        'name': 'Freifunk Landkreis Landshut'
+      },
+      {
+        'domain': 'tecff_freising',
+        'name': 'Freifunk Landkreis Freising'
+      },
+      {
+        'domain': 'tecff_oberbayern',
+        'name': 'Freifunk Oberbayern'
+      },
+      {
+        'domain': 'tecff_dingolfing_landau',
+        'name': 'Freifunk Dingolfing/Landau'
+      },
+      {
+        'domain': 'tecff_passau',
+        'name': 'Freifunk Passau'
+      },
+      {
+        'domain': 'tecff_bad_griesbach',
+        'name': 'Freifunk Bad Griesbach'
+      },
+      {
+        'domain': 'ffotn.init.tk',
+        'name': 'Freifunk Oberbayern (alt)'
+      },
+      {
+        'domain': 'ffgri.init.tk',
+        'name': 'Freifunk Bad Grießbach (alt)'
       }
     ],
     'linkList': [
